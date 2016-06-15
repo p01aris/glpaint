@@ -1,16 +1,32 @@
-# glpaint
+### glpaint
 A high performance opengl paint libraray
 
 glpaint is a high performance paint library for data visualization. I build this library because most of exsit plot library have an poor render performance like gnuplot. By directly render via OpenGL, glpaint is more flexable and have a high performance. I think it helpful for most data visualization task.
 
-
+![alt tag](http://url/to/img.png)
 ----------------------------
-Usage: 
+###Usage: 
 
+```
 mkdir build
+```
 
+```
 cd build
+```
 
+```
 cmake ../
+```
 
+```
 make
+```
+
+## Built With
+
+* GLFW
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
