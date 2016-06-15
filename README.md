@@ -8,6 +8,9 @@ glpaint is a high performance paint library for data visualization. I build this
 Usage: 
 
 mkdir build
+
 cd build
+
 cmake ../
+
 make
