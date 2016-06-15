@@ -1,7 +1,7 @@
 ### glpaint
 A high performance opengl paint libraray
 
-glpaint is a high performance paint library for data visualization. I build this library because most of exsit plot library have an poor render performance like gnuplot. By directly render via OpenGL, glpaint is more flexable and have a high performance. I think it helpful for most data visualization task.
+glpaint is a high performance data plotting library for data visualization. I build this library because most exsit plotting library have a poor render performance like gnuplot. By directly rendering via OpenGL, glpaint is more flexable and have a high performance. I think it helpful for most data visualization task.
 
 ![alt tag](https://s32.postimg.org/4ohhbkm2d/title.png)
 ----------------------------
